@@ -41,7 +41,9 @@ I am studying Msc in Artificial Intelligence at Asia Pacific University.
 
 ---
 ### Let's connect!
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shengxuelim&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/sheng-xue-lim-79833923a) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheng-xue-lim-79833923a)&nbsp;
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shengxuelim)
+
 
 **Let's code, connect, and create awesome things together!**
 
