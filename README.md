@@ -37,7 +37,7 @@ I am studying Msc in Artificial Intelligence at Asia Pacific University.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinchuan1116&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limshengxue&layout=compact)
 
 ---
 ### Let's connect!
