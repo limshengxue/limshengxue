@@ -37,6 +37,8 @@ I am studying Msc in Artificial Intelligence at Asia Pacific University.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinchuan1116&layout=compact)
+
 ---
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shengxuelim&logo=linkedin&style=flat&color=blue)](www.linkedin.com/in/sheng-xue-lim-79833923a) 
